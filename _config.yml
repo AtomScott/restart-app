@@ -34,45 +34,25 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : リハビリ
+    description                           : 年間およそ436.8万人¹の負傷者に対し，資格を保有しているスポーツトレーナーは5512人のみ²。負傷者のうち、31%が再受傷をしたという研究もある³。
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : 予防
+    description                           : サッカー選手が1000時間プレーすると平均で2.5人回の肉離れが起こる⁴。適切なケアでこの数値を減らすことが知られている⁵。
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Text 2 Brain Model
+    description                           : 知識をグラフ化することによってAIに文字データを構造的に理解させ故障を誘発させるメカニズムや復帰までのリハビリの段階に応用します。
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Data Input
+    description                           : AIの性能はユーザーが入力するデータ に依存するため、入力過程が肝です。 Twitter APIを活用し，SNSをベースに したコミュニティーをつくることで楽 しく継続できるようにします。
+    fontawesome_icon_name                 : play-circle
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Mobile App
+    description                           : 既存の技術を用いてアプリケーションを開発し、個人の症状に合わせた復帰までのリハビリメニューの自動生成を目指します。
+    fontawesome_icon_name                 : play-circle
 
 
 
